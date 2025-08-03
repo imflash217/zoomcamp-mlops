@@ -20,4 +20,5 @@ __pycache__/
 **terraform.tfstate*
 
 
-.DS_Store
+.DS_Store.trash
+.trash
